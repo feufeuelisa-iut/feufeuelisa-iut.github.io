@@ -4688,6 +4688,7 @@ input, select, textarea {
 		}
 
 	}
-h1{
-	color: blue}
-	
+h1 {
+  color: #001f3f; /* Code Hexadécimal */
+}
+
